@@ -1,0 +1,5 @@
+# Core analysis and plotting. Training dependencies are optional and separate.
+numpy>=1.26,<2
+pandas>=2.2,<3
+matplotlib>=3.8,<4
+scikit-learn>=1.5,<2
